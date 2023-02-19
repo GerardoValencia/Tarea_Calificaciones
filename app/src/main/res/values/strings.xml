@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calificaciones</string>
+    <string name="materia_de_programacion">MATERIA DE PROGRAMACIÓN</string>
+    <string name="escriba_su_clasificacion">Escriba su clasificación:</string>
+    <string name="calificacion">Calificación</string>
+    <string name="enviar">Enviar</string>
+    <string name="regresar">Regresar</string>
+    <string name="sigue_participando">Sigue Participando</string>
+</resources>
